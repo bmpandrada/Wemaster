@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Open+Sans:ital,wght@0,300;0,700;1,500;1,800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav>
+    <div class="logo"> <a href="#"><span style="color:black">Masters</span><i>WedigitalPh</i></a></div>
+    <ul class="nav-item">
+    <li class="nav-list">
+        <a href="index.html">HOME</a>
+    </li>
+    <li class="nav-list">
+        <a href="about.html">ABOUT</a>
+    </li>
+    <li class="nav-list">
+        <a href="contact.html">CONTACT</a>
+    </li>
+
+</ul>
+</nav>
+<div class="banner">
+    <section class="banner-flex"></section>
+    <img src="img/Untitled-2.png" alt="">
+    <article class="banner-heading"><p>About Real<i>DEV</i></p>
+        <p class="bannerp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque explicabo, cupiditate vel reiciendis fugiat ex nihil molestias error? Saepe, pariatur voluptatibus iste adipisci nostrum voluptate maxime reiciendis! Ipsum, ullam.</p>
+        
+</div>
+
+
+<section class="header-flex"><article><h2>first flex title header insert here &RightArrow;</h2></article> </section>
+
+<div class="container-flex first-flex">
+    <section class="flex-section">
+    <article class="art-one">
+        <h1>home (flex)</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam repellat nam consequatur blanditiis ut in eius quam tenetur nisi, tempore atque id, ad, nesciunt pariatur eveniet? Animi officia veritatis consectetur eligendi? Reprehenderit magni eveniet perspiciatis impedit, ut repudiandae dolorum repellat modi rem pariatur qui omnis quaerat hic, laboriosam amet laudantium, sunt explicabo iste placeat sint? Totam officiis nostrum voluptas beatae corrupti ullam rem, harum dicta quidem error vitae dolore dolor. Qui ratione dignissimos blanditiis voluptatum deleniti quidem soluta eius sunt commodi eligendi sequi itaque totam natus ducimus placeat doloremque, 
+            asperiores nam provident, aut temporibus molestiae sed aliquam deserunt reiciendis. Ullam?</p>
+    </article>
+
+
+
+
+
+
+
+
+</div>
+
+<!-- about us gallarey -->
+<article class="lottie"> 
+       <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_4kx2q32n.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+    Our Team    
+</article>
+
+
+<div class="about-us chay">
+    <section class="about-chay">
+    <img src="img/AD__SHINE.png" alt="">
+    </section>
+    <article class="about-us-heading"><p class="about-title">Master<i>Chay</i></p>
+        <p class="about-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque explicabo, cupiditate vel reiciendis fugiat ex nihil molestias error? Saepe, pariatur voluptatibus iste adipisci nostrum voluptate maxime reiciendis! Ipsum, ullam.</p>
+    </article>
+</div>
+
+
+<div class="about-us saki">    
+    <article class="about-us-heading"><p class="about-title">Master<i>Saki</i></p>
+        <p class="about-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque explicabo, cupiditate vel reiciendis fugiat ex nihil molestias error? Saepe, pariatur voluptatibus iste adipisci nostrum voluptate maxime reiciendis! Ipsum, ullam.</p>
+    </article>
+    <section class="about-saki">
+        <img src="img/AD_SAKI.png" alt="">
+        </section>
+</div>
+
+<div class="about-us chay">
+    <section class="about-vitz">
+    <img src="img/AD_VITZ.png" alt="">
+    </section>
+    <article class="about-us-heading"><p class="about-title">Master<i>Vitz</i></p>
+        <p class="about-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque explicabo, cupiditate vel reiciendis fugiat ex nihil molestias error? Saepe, pariatur voluptatibus iste adipisci nostrum voluptate maxime reiciendis! Ipsum, ullam.</p>
+    </article>
+</div>
+
+<div class="about-us bruce">    
+    <article class="about-us-heading"><p class="about-title">Master<i>Bruce</i></p>
+        <p class="about-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque explicabo, cupiditate vel reiciendis fugiat ex nihil molestias error? Saepe, pariatur voluptatibus iste adipisci nostrum voluptate maxime reiciendis! Ipsum, ullam.</p>
+    </article>
+    <section class="about-bruce">
+        <img src="img/AD_BRUCE.png" alt="">
+        </section>
+</div>
+
+<div class="about-us phil">
+    <section class="about-phil">
+    <img src="img/AD_PHILIP-1024x1024.png" alt="">
+    </section>
+    <article class="about-us-heading"><p class="about-title">Master<i>Phil</i></p>
+        <p class="about-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque explicabo, cupiditate vel reiciendis fugiat ex nihil molestias error? Saepe, pariatur voluptatibus iste adipisci nostrum voluptate maxime reiciendis! Ipsum, ullam.</p>
+    </article>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-flex second-flex">
+        <article class="art-three">
+            <h1>sub heading(flex)</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam repellat nam consequatur blanditiis ut in eius quam tenetur nisi, tempore atque id, ad, nesciunt pariatur eveniet? Animi officia veritatis consectetur eligendi? Reprehenderit magni eveniet perspiciatis impedit, ut repudiandae dolorum repellat modi rem pariatur qui omnis quaerat hic, laboriosam amet laudantium, sunt explicabo iste placeat sint? Totam officiis nostrum voluptas beatae corrupti ullam rem, harum dicta quidem error vitae dolore dolor. Qui ratione dignissimos blanditiis voluptatum deleniti quidem soluta eius sunt commodi eligendi sequi itaque totam natus ducimus placeat doloremque, 
+                asperiores nam provident, aut temporibus molestiae sed aliquam deserunt reiciendis. Ullam?</p>
+        </article>
+
+        <article class="art-four">
+            <h1>subheading(flex)</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam repellat nam consequatur blanditiis ut in eius quam tenetur nisi, tempore atque id, ad, nesciunt pariatur eveniet? Animi officia veritatis consectetur eligendi? Reprehenderit magni eveniet perspiciatis impedit, ut repudiandae dolorum repellat modi rem pariatur qui omnis quaerat hic, laboriosam amet laudantium, sunt explicabo iste placeat sint? Totam officiis nostrum voluptas beatae corrupti ullam rem, harum dicta quidem error vitae dolore dolor. Qui ratione dignissimos blanditiis voluptatum deleniti quidem soluta eius sunt commodi eligendi sequi itaque totam natus ducimus placeat doloremque, 
+                asperiores nam provident, aut temporibus molestiae sed aliquam deserunt reiciendis. Ullam?</p>
+        </article>
+    </section>
+</div>
+
+<section class="header-grid"><article><h2>first grid section &rightarrow;</h2></article> </section>
+
+    <!-- for grid content -->
+    <div class="container-grid">
+        <section class="grid-section">
+        <div class="container-grid first-grid">
+            <article class="grid-1">
+                <h1>grid-1</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                     blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+            </article>
+        </div>
+        <div class="container-grid two-grid">
+            <article class="grid-2">
+                <h1>grid-2</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                     blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+            </article>
+        </div>
+        </section>
+
+        <section class="grid-section">
+            <div class="container-grid first-grid">
+                <article class="grid-3">
+                    <h1>grid-3</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                         blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+                </article>
+            </div>
+            <div class="container-grid two-grid">
+                <article class="grid-4">
+                    <h1>grid-4</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                         blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+                </article>
+            </div>
+            </section>
+            <section class="grid-section">
+                <div class="container-grid first-grid">
+                    <article class="grid-5">
+                        <h1>grid-5</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                             blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+                    </article>
+                </div>
+                <div class="container-grid two-grid">
+                    <article class="grid-6">
+                        <h1>grid-6</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                             blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+                    </article>
+                </div>
+                </section>
+                <section class="grid-section">
+                    <div class="container-grid first-grid">
+                        <article class="grid-7">
+                            <h1>grid-7</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                                 blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+                        </article>
+                    </div>
+                    <div class="container-grid two-grid">
+                        <article class="grid-8">
+                            <h1>grid-8</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nobis ab iure optio placeat, est mollitia nesciunt cupiditate eos,
+                                 blanditiis a amet iste possimus officiis, iusto atque sequi nam accusantium!</p>
+                        </article>
+                    </div>
+                    </section>
+    </div>
+    <script src="/script.js"></script>
+</body>
+</html>
