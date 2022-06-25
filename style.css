@@ -1354,12 +1354,12 @@ footer {
       padding: 0;
     }
     .banner-heading {
-      width: 100%;
-      border: solid 1px red;
+      width: 50%;
+     
     }
     .banner-heading p {
-      width: 100%;
-      border: solid 1px red;
+      width: 50%;
+     
       font-size: 28px;
     }
 
