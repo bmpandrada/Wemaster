@@ -1358,6 +1358,7 @@ footer {
     }
     .banner-heading p {
       font-size: 12px;
+      margin-left: -50px;
     }
 
     .about-us img {
