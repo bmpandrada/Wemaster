@@ -594,15 +594,14 @@ footer {
   .banner {
     width: 100%;
     padding-top: 8em;
-    align-items: center;
+    align-items: flex-end;
   }
   .banner img {
     width: 50%;
   }
   .banner-heading p {
-    width: 100%;
     font-size: 12px;
-    align-items: flex-start;
+    align-items: center;
   }
   .about-us img {
     width: 100%;
