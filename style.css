@@ -1354,10 +1354,15 @@ footer {
       padding: 0;
     }
     .banner-heading {
-      font-size: 20px;
-      width: 50%;
+      width: 100%;
       border: solid 1px red;
     }
+    .banner-heading p {
+      width: 100%;
+      border: solid 1px red;
+      font-size: 28px;
+    }
+
     .about-us img {
       width: 100%;
     }
