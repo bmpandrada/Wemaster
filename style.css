@@ -1355,12 +1355,11 @@ footer {
     }
     .banner-heading {
       width: 50%;
-     
     }
     .banner-heading p {
       width: 50%;
-     
-      font-size: 28px;
+
+      font-size: 18px;
     }
 
     .about-us img {
