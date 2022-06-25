@@ -1352,6 +1352,7 @@ footer {
   }
   .about-us img {
     width: 100%;
+    align-items: flex-end;
   }
   .about-us {
     flex-basis: auto;
