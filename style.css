@@ -27,7 +27,6 @@ body {
   width: 50%;
   align-items: flex-start;
   padding: 0;
-  border: solid 1px red;
 }
 .banner-heading {
   font-weight: 700;
@@ -1223,7 +1222,7 @@ footer {
     }
     .banner-heading p {
       width: 100%;
-      font-size: 12px;
+      font-size: 42px;
       align-items: center;
       justify-content: flex-end;
     }
@@ -1350,13 +1349,14 @@ footer {
       align-items: center;
     }
     .banner img {
-      width: 80%;
+      width: 50%;
       margin: 0 auto;
       padding: 0;
     }
-    .banner-heading p {
-      font-size: 19px;
+    .banner-heading {
+      font-size: 20px;
       width: 50%;
+      border: solid 1px red;
     }
     .about-us img {
       width: 100%;
