@@ -601,6 +601,7 @@ footer {
     align-items: flex-end;
   }
   .banner-heading p {
+    width: 100%;
     font-size: 12px;
     align-items: center;
   }
@@ -615,7 +616,7 @@ footer {
     width: 100%;
   }
 }
-media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
   }
@@ -664,6 +665,7 @@ media only screen and (max-width: 600px) {
   .banner-heading p {
     font-size: 12px;
     align-items: center;
+    width: 100%;
   }
   .about-us img {
     width: 100%;
