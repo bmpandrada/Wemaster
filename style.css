@@ -600,6 +600,8 @@ footer {
   .banner img {
     width: 50%;
     align-items: flex-end;
+    margin: 0;
+    padding: 0;
   }
   .banner-heading p {
     width: 100%;
@@ -1313,7 +1315,7 @@ footer {
       width: 100%;
       left: -100%;
       top: 0;
-      background: #a8009a5d;
+      background: #070707;
       opacity: 80%;
       text-align: center;
       padding-top: 6em;
@@ -1339,8 +1341,7 @@ footer {
       align-items: center;
     }
     .banner img {
-      width: 50%;
-      align-items: flex-end;
+      width: 80%;
       margin: 0;
       padding: 0;
     }
