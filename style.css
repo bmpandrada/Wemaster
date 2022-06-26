@@ -24,9 +24,13 @@ body {
   align-items: center;
 }
 .banner > img {
-  width: 50%;
-  align-items: flex-start;
+  width: 30%;
+  align-self: flex-end;
   padding: 0;
+  margin-top: 1em;
+}
+.banner-heading-home {
+  font-size: small;
 }
 .banner-heading {
   font-weight: 700;
@@ -605,10 +609,9 @@ footer {
     padding-top: 8em;
     align-items: center;
   }
-  .banner img {
-    width: 50%;
-    align-items: flex-end;
-    margin: 0;
+  .banner > img {
+    width: 30%;
+    align-self: flex-end;
     padding: 0;
   }
   .banner-heading p {
@@ -1216,9 +1219,10 @@ footer {
       padding-top: 8em;
       align-items: center;
     }
-    .banner img {
-      width: 50%;
-      align-items: flex-end;
+    .banner > img {
+      width: 30%;
+      align-self: flex-end;
+      padding: 0;
     }
     .banner-heading p {
       width: 100%;
@@ -1348,14 +1352,11 @@ footer {
       padding-top: 8em;
       align-items: center;
     }
-    .banner img {
-      width: 60%;
-      margin: 0 auto;
-      padding: 0;
-    }
+
     .banner-heading {
       width: 40%;
     }
+
     .banner-heading p {
       font-size: 9px;
       margin-left: -50px;
